@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+My name is Stassa and I've taken up coding to fulfill a childhood dream of mine.
+I love Apple, jewelry design and cinema.
